@@ -27,13 +27,19 @@ As an aspiring data scientist, I am always eager to learn and stay up-to-date wi
 Here are some of the exciting projects you can find in this repository:
 
 **Predicting Customer Churn:**
-Using machine learning algorithms to predict customer churn and identifying strategies for retention.
+Using deep learning algorithms to predict customer churn and identifying strategies for retention.
 
 **Analyzing Sales Trends with Tableau:**
 Visualizing sales data to identify trends and uncover actionable insights using Tableau.
 
-**Movie Recommendation System:**
-Building a recommendation system based on collaborative filtering techniques.
+**YOUTUBE Trending Video Analysis:**
+Conducted an in-depth analysis of YouTube trending videos to uncover valuable insights and trends.
+
+**BIG MART Sales Analysis and Prediction:**
+Accurately predicted future sales and provided actionable insights for sales optimization.
+
+**INSTAGRAM Clone Database using SQL:**
+Utilized SQL to handle data manipulation, retrieval, and maintenance operations effectively.
 
 # Getting in Touch
 
